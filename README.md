@@ -8,7 +8,7 @@ Template Blogger portal berita bergaya Liputan6. Edisi Free untuk mencoba tampil
 
 ## Unduh dan demo
 
-- [Unduh LiputSpot Free v1.0.17](LiputSpot-v1.0.17-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
+- [Unduh LiputSpot Free v1.0.18](LiputSpot-v1.0.18-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
 - [Lihat demo produk](https://liputspot.temablogger.com/) (demo produk lengkap, bukan demo pembatasan Free).
 - [Beli LiputSpot Premium](https://www.temablogger.com/2026/10/liputspot-template-blogger-portal-berita.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
@@ -43,7 +43,7 @@ Penggabungan Free → Premium diperiksa pada berkas XML lokal untuk 16 produk: i
 
 ## Versi dan kredit aset
 
-Edisi Free **1.0.17**, berdasarkan mesin tema Premium **1.0.16**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
+Edisi Free **1.0.18**, berdasarkan mesin tema Premium **1.0.16**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
 
 Ikon Material Design Icons berasal dari [Pictogrammers](https://pictogrammers.com/library/mdi/), dengan lisensi Apache 2.0 untuk aset ikon. Lihat `PICTOGRAMMERS-NOTICE.txt` dan `LICENSE-APACHE-2.0.txt`. Lisensi ikon tidak mengubah ketentuan tema.
 
