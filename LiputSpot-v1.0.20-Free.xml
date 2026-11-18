@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=liputspot | releaseVersion=1.0.19 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.0.17 -->
+<!-- TemaBlogger release | product=liputspot | releaseVersion=1.0.20 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.0.17 -->
 
 <!DOCTYPE html>
-<html b:templateVersion="1.0.19" b:css="false" b:responsive="true" b:version="2" b:layoutsVersion="3" b:defaultwidgetversion="2" expr:dir="data:blog.languageDirection" lang="id" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head><meta content="width=device-width, initial-scale=1" name="viewport"/><meta charset="UTF-8"/><title><data:blog.pageTitle/></title><b:include data="blog" name="all-head-content"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=optional" media="print" onload="this.onload=null;this.media=&quot;all&quot;" rel="stylesheet"/><noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=optional" rel="stylesheet"/></noscript><script>//<![CDATA[
+<html b:templateVersion="1.0.20" b:css="false" b:responsive="true" b:version="2" b:layoutsVersion="3" b:defaultwidgetversion="2" expr:dir="data:blog.languageDirection" lang="id" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head><meta content="width=device-width, initial-scale=1" name="viewport"/><meta charset="UTF-8"/><title><data:blog.pageTitle/></title><b:include data="blog" name="all-head-content"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=optional" media="print" onload="this.onload=null;this.media=&quot;all&quot;" rel="stylesheet"/><noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=optional" rel="stylesheet"/></noscript><script>//<![CDATA[
 try{document.documentElement.dataset.theme=localStorage.getItem('liputspot-theme')||'light';}catch(e){document.documentElement.dataset.theme='light';}
 //]]></script><b:skin><![CDATA[/* Variable definitions
 <Group description="Identitas dan warna utama" selector="body">
@@ -408,7 +408,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 <b:class cond="data:view.isHomepage" name="page-home"/><b:class cond="data:view.isPost" name="page-post"/><b:class cond="data:view.isPage" name="page-static"/>
